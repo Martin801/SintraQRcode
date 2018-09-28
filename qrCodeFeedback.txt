@@ -1,0 +1,69 @@
+----------------------------------------------------------------------------------------------------------------
+Customer Portal
+-----------------------------------------------------------------------------------------------------------------
+-> No Data Available is still in english (Most used QR-Code) => german = Keine Daten vorhanden
+Comments: Done plase check and confirm
+
+-> Language Setting Dropdown should be changed from text to icons (English = England Flag, German = Germany Flag)
+Comments:Done please check and confirm
+
+-> the selected Language should be displayed in header as a round flag icon (at moment the german flag)
+Comments:Done please check and confirm
+
+-> Website Title should be changed to SIGNID KUNDENPORTAL
+Comments:Done please check and confirm
+
+-> the german word Instrumententafel should be changed to Dashboard
+Comments:Done please check and confirm
+
+-> diplay only the latest 5 User Actions
+Comments:Done please check and confirm
+
+-> when i submit the csv file i got an Error Message ("Error Occure") => But no Error Message in the Chrome Dev Console
+Comments:We are not geetting any error can you plase send me a screen short
+
+-> german word Besuche in Creation Screen should be changed to "Dynamisch"
+Comments:Done please check and confirm
+
+-> after creation screen should be switched to QR-Code List Overview
+Comments:Done please check and confirm
+
+-> when the OR-Code is Activ, the activ Button should be displayed / inactiv, the inactiv Button should be displayed
+Comments:Done please check and confirm
+
+-> rename the header name from Karte Geo Tagging Information to QR-Code Details
+Comments:Done please check and confirm
+
+-> don't show the IP Adress in Details and Overview
+Comments:Done please check and confirm
+
+-> rename the column header from Karte Geo Tagging Information to Produkt
+Comments:Done please check and confirm
+
+-> rename the column header from Terminzeit to Scanzeit
+Comments:Done please check and confirm
+
+-> font color login screen should be black and not grey (Placeholder Text = grey and filled text = black)
+Comments:Done please check and confirm
+
+-> we only need the map view with the table above the details popup and the button can be deleted
+Comments:Done please check and confirm
+
+-> rename the Button Map to Details and Karte to Details
+Comments:Done please check and confirm
+
+-> the save button in the creation view should have the blue background color
+Comments:Done please check and confirm
+
+-> cancel button in the creation view should have no background color
+Comments:Done please check and confirm
+
+-> Default Language should be German
+Comments:Done please check and confirm
+
+-> created and edited and activated/deactivated should come in last user actions
+Comments:
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,0 +1,72 @@
+@media (max-width: 1199px) {
+    .table-main .right .heading {
+        float: none;
+        width: auto;
+    }
+    .table-main .right .btn {
+        float: none;
+        width: auto;
+    }
+}
+
+@media (max-width: 991px) {
+    .header{
+        text-align: center;
+    }
+    .header .logo{
+        float: none;
+    }
+    .header .icon{
+        float: none;
+    }
+    .table-main .left {
+        float: none;
+        width: auto;
+        min-height: inherit;
+    }
+    .table-main .right {
+        float: none;
+        width: auto;
+        text-align: center;
+    }
+    .table-main .right .btn ul li {
+        display: block;
+    }
+    .dashboard-main .left {
+        float: none;
+        width: auto;
+    }
+    .dashboard-main .middle {
+        float: none;
+        width: auto;
+    }
+    .dashboard-main .right {
+        float: none;
+        width: auto;
+        min-height: inherit;
+    }
+    .form-main label{
+        float: none;
+        width: auto;
+        margin-bottom: 10px;
+    }
+    label.radio-inline{
+        margin-right: 10px;
+    }
+    .form-main .inr{
+        float: none;
+        width: auto;
+    }
+    .form-sec textarea{
+        margin-left: 0;
+    }
+    button.code-btn{
+        margin-left: 0;
+    }
+    .input-block .fa{
+        display: none;
+    }
+
+}
+
+@media (max-width: 400px) {}
